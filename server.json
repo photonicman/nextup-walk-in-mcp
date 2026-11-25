@@ -8,10 +8,10 @@
     "url": "https://github.com/photonicman/nextup-walk-in-mcp",
     "source": "github"
   },
-  "version": "1.0.2",
+  "version": "1.0.3",
   "icons": [
     {
-      "src": "https://nextupwalkin.com/icon.svg",
+      "src": "https://nextupwalkin.com/brand/n-globe.svg",
       "mimeType": "image/svg+xml",
       "sizes": [
         "any"
