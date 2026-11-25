@@ -1,5 +1,7 @@
 # NextUp Walk-in MCP server
 
+[![NextUp Walk-in MCP connector](https://glama.ai/mcp/connectors/com.nextupwalkin/nextup-walk-in/badges/score.svg)](https://glama.ai/mcp/connectors/com.nextupwalkin/nextup-walk-in)
+
 Live walk-in waits for AI assistants. This is a hosted, public, read-only
 [Model Context Protocol](https://modelcontextprotocol.io) server from
 [NextUp Walk-in](https://nextupwalkin.com). It finds barbers, salons, groomers and other
